@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.meuhboxdemo",                              
+  "displayName": "Meuh Box",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Example given to kids of how to make a meuh box",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"C:\\Users\\elois\\Desktop\\DeleteMe\\2018_03_14_Meuh\\Assets\\2018_03_14_Meuh",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
