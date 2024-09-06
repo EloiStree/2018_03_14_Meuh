@@ -455,7 +455,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_lastRotation: {x: 0, y: 0, z: 0, w: 0}
   m_currentRotation: {x: 0, y: 0, z: 0, w: 0}
-  m_angleToTrigger: 180
+  m_angleToTrigger: 100
   m_meuhDetected:
     m_PersistentCalls:
       m_Calls:
